@@ -4,12 +4,6 @@
 <h3 align="center">A passionate frontend developer🚀 Welcome to My Front-End Universe!</h3>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobinijohnson07&show_icons=true&locale=en&layout=compact" alt="jobinijohnson07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobinijohnson07&show_icons=true&locale=en" alt="jobinijohnson07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobinijohnson07&" alt="jobinijohnson07" /></p>
-<br/>
 - 🔭 I’m currently working as **Software Development Engineer**
 
 - 🌱 I’m currently learning **React**
@@ -46,5 +40,7 @@
 
 
 <br/>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobinijohnson07&show_icons=true&locale=en" alt="jobinijohnson07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobinijohnson07&show_icons=true&locale=en&layout=compact" alt="jobinijohnson07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobinijohnson07&" alt="jobinijohnson07" /></p>
 
