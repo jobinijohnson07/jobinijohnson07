@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jobiny Johnson</h1>
 <h3 align="center">A passionate frontend developer🚀 Welcome to My Front-End Universe!</h3>
 <br/>
-- 🔭 I’m currently working as **Software Development Engineer**
+
 
 - 🔭 I’m currently working as **Software Development Engineer**
 - 🌱 I’m currently learning **React, Tailwind, Augmented Reality**
