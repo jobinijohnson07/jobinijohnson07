@@ -27,8 +27,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobinijohnson07&show_icons=true&locale=en" alt="jobinijohnson07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobinijohnson07&show_icons=true&locale=en&layout=compact" alt="jobinijohnson07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobinijohnson07&" alt="jobinijohnson07" /></p>
+<br/>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -37,10 +40,4 @@
 <a href="https://instagram.com/j_o_b_y_j_o_h_n_s_o_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_o_b_y_j_o_h_n_s_o_n" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@jobinijohnson981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@jobinijohnson981" height="30" width="40" /></a>
 </p>
-
-
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobinijohnson07&show_icons=true&locale=en" alt="jobinijohnson07" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobinijohnson07&show_icons=true&locale=en&layout=compact" alt="jobinijohnson07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobinijohnson07&" alt="jobinijohnson07" /></p>
 
