@@ -25,9 +25,13 @@
 
 
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobinijohnson07&show_icons=true&locale=en" alt="jobinijohnson07" /></p>
+<div display="flex">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobinijohnson07&show_icons=true&locale=en" alt="jobinijohnson07" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobinijohnson07&show_icons=true&locale=en&layout=compact" alt="jobinijohnson07" /></p>
+</div>
+
 <br/>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
