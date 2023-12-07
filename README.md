@@ -4,6 +4,7 @@
 - 🔭 I’m currently working as **Software Development Engineer**
 
 - 🌱 I’m currently learning **React, Tailwind, Augmented Reality**
+- 🌱 I’m currently learning **React, Tailwind, Augmented Reality**
 
 
 - 📝 I regularly write articles on [https://medium.com/@jobinijohnson981](https://medium.com/@jobinijohnson981)
