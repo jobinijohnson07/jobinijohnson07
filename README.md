@@ -26,7 +26,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jobinijohnson07" alt="jobinijohnson07" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jobiny johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobiny johnson" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jobiny-johnson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobiny johnson" height="30" width="40" /></a>
 <a href="https://fb.com/bunny gal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bunny gal" height="30" width="40" /></a>
 <a href="https://instagram.com/j_o_b_y_j_o_h_n_s_o_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_o_b_y_j_o_h_n_s_o_n" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@jobinijohnson981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@jobinijohnson981" height="30" width="40" /></a>
