@@ -3,7 +3,7 @@
 <br/>
 
 
-- 🔭 I’m currently working as **Software Development Engineer**
+- 🔭 I’m currently working as **Senior Frontend Developer**
 - 🌱 I’m currently learning **React, Tailwind, Augmented Reality**
 
 
